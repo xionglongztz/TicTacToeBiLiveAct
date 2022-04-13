@@ -1,0 +1,15 @@
+E:\VS2\TicTacToeLive\bin\Debug\TicTacToeLive.exe.config
+E:\VS2\TicTacToeLive\bin\Debug\TicTacToeLive.exe
+E:\VS2\TicTacToeLive\bin\Debug\TicTacToeLive.pdb
+E:\VS2\TicTacToeLive\bin\Debug\TicTacToeLive.xml
+E:\VS2\TicTacToeLive\bin\Debug\Newtonsoft.Json.dll
+E:\VS2\TicTacToeLive\bin\Debug\Newtonsoft.Json.xml
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.vbproj.AssemblyReference.cache
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.Form1.resources
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.Resources.resources
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.vbproj.GenerateResource.cache
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.vbproj.CoreCompileInputs.cache
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.vbproj.CopyComplete
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.exe
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.xml
+E:\VS2\TicTacToeLive\obj\Debug\TicTacToeLive.pdb
